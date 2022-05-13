@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) ve [patika.dev](www.patika.dev) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) ve [patika.dev](https://www.patika.dev) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ---
 ![Projemin Bir Resmi](https://i.hizliresim.com/alprgjz.JPG)
